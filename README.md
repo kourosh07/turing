@@ -4,7 +4,7 @@ This is a recommended project for the Turing team's main page.
 
 ## Getting Started
 
-First, run the development server:
+First, you need to run the development server:
 
 <br/>
 <img src="./Screenshot 2024-09-14 211235.png" />
